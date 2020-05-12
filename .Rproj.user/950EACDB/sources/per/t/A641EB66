@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589135456138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1803804852",
+    "id" : "A641EB66",
+    "lastKnownWriteTime" : 1589143685,
+    "last_content_update" : 1589143685179,
+    "path" : "D:/dokumentumok/MA EGYETEM/statprog 3/ultimateexchanger/R/convert_usd_to_eur.R",
+    "project_path" : "R/convert_usd_to_eur.R",
+    "properties" : {
+        "cursorPosition" : "6,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

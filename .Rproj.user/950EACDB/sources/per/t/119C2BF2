@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589138017500.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2740433534",
+    "id" : "119C2BF2",
+    "lastKnownWriteTime" : 1589312915,
+    "last_content_update" : 1589312915396,
+    "path" : "D:/dokumentumok/MA EGYETEM/statprog 3/ultimateexchanger/R/uneur.R",
+    "project_path" : "R/uneur.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
